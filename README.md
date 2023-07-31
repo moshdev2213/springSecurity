@@ -1,5 +1,7 @@
 # springSecurity
 
+![Screenshot (307)](https://github.com/moshdev2213/springSecurity/assets/103739510/f1a8fe7d-edd0-48f6-9fa6-ca44fe8a1693)
+
 In the captivating YouTube tutorial "https://youtu.be/KxqlJblhzfI," I embarked on an enthralling journey of learning Spring Security with JWT (JSON Web Tokens) to fortify my web application's defenses. 🛡️🚀
 
 Tech Stack: 🛠️
@@ -21,5 +23,4 @@ Under the benevolent guidance of the YouTube tutorial, I and my fellow developer
 
 In conclusion, my journey through the realm of Spring Security with JWT was a delightful and fruitful one, empowering me with the expertise to safeguard web applications and uphold the principles of secure development. 🌟🚀🔒🎓
 
-![Screenshot (307)](https://github.com/moshdev2213/springSecurity/assets/103739510/f1a8fe7d-edd0-48f6-9fa6-ca44fe8a1693)
 
